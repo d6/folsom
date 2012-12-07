@@ -33,7 +33,7 @@
         ]).
 
 %% size of the window in seconds
--define(WINDOW, 60).
+-define(WINDOW, 5).
 
 -include("folsom.hrl").
 
